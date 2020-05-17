@@ -1,0 +1,325 @@
+,Postcode district,Latitude,Longitude,Cluster Labels,layer,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue,avg_price,price_band
+0,BR1,51.41073119045307,0.019414597396335633,3,BR1,Pub,Buffet,Lingerie Store,Café,Bar,Train Station,English Restaurant,Bus Station,Indian Restaurant,Irish Pub,714669.0,premium
+1,BR2,51.39037744515663,0.021640160968661008,5,BR2,Park,Gym / Fitness Center,Gym,Soccer Stadium,Athletics & Sports,Filipino Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,489235.0,mid range
+2,BR3,51.40342791503666,-0.03169529164677815,3,BR3,Coffee Shop,Fish & Chips Shop,Supermarket,Mediterranean Restaurant,Indian Restaurant,Bar,Pub,Pizza Place,Diner,Pharmacy,496047.0,mid range
+3,BR4,51.375665840277655,-0.009917151041666678,6,BR4,Pizza Place,Supermarket,Indian Restaurant,Pharmacy,Stationery Store,Pub,Food,Food & Drink Shop,Ethiopian Restaurant,Event Space,552000.0,mid range
+4,BR5,51.38919758899934,0.10252719862490511,0,BR5,Bakery,Tech Startup,Construction & Landscaping,Other Repair Shop,Home Service,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,414709.0,cheap
+5,BR6,51.36753395727573,0.091772287925697,2,BR6,Pub,Auto Dealership,Home Service,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,590375.0,mid range
+6,BR7,51.41180729861109,0.05938985833333351,3,BR7,Pub,Health & Beauty Service,Golf Course,Bar,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,586019.0,mid range
+7,BR8,51.396025636363646,0.14025754545454544,0,BR8,Sauna / Steam Room,Fast Food Restaurant,Diner,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,845000.0,premium
+8,CM14,51.609021000000006,0.260054,0,CM14,Noodle House,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+9,CM23,51.528566,-0.116476,3,CM23,Hotel,Pub,Café,Italian Restaurant,Fast Food Restaurant,Burger Joint,Coffee Shop,Garden,Thai Restaurant,Cocktail Bar,,
+10,CR0,51.37323435312834,-0.0782066132909156,2,CR0,Pub,Tram Station,Bus Stop,Yoga Studio,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,368049.0,cheap
+11,CR2,51.3452429863397,-0.09544652331606156,0,CR2,Platform,Fish & Chips Shop,Train Station,Park,Food Service,Fast Food Restaurant,Ethiopian Restaurant,Event Space,Food Truck,Exhibit,485007.0,mid range
+12,CR3,51.31452949256506,-0.1318906802973976,0,CR3,Park,Garden Center,Café,Platform,Yoga Studio,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,510333.0,mid range
+13,CR4,51.40253356114764,-0.144780169602415,6,CR4,Construction & Landscaping,Bus Stop,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,368555.0,cheap
+14,CR44,51.38232177272727,-0.13289631818181816,4,CR44,Sporting Goods Shop,Hardware Store,Tram Station,Home Service,English Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,,
+15,CR5,51.316005976824805,-0.1373496558516794,6,CR5,Platform,Smoke Shop,Bus Stop,Indian Restaurant,Café,Art Gallery,Park,Event Space,Exhibit,Fabric Shop,562247.0,mid range
+16,CR6,51.322173875000004,-0.04614575,0,CR6,Gastropub,Yoga Studio,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,450000.0,cheap
+17,CR7,51.392713092356665,-0.10351042887473484,2,CR7,Pub,Food Service,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,430310.0,cheap
+18,CR8,51.33685682755484,-0.11122540510948897,3,CR8,Pizza Place,Supermarket,Coffee Shop,Platform,Pub,Café,Fast Food Restaurant,Tapas Restaurant,Gym,Pharmacy,839546.0,premium
+19,CR9,51.374821577788786,-0.09504562336301572,3,CR9,Pub,Hotel,Coffee Shop,Platform,Clothing Store,Bookstore,Gym / Fitness Center,Portuguese Restaurant,Caribbean Restaurant,Gym,,
+20,CR90,51.37731238009046,-0.10639852036199084,0,CR90,Coffee Shop,Clothing Store,Pharmacy,Fast Food Restaurant,Supermarket,Department Store,Platform,Sandwich Place,Grocery Store,Park,,
+21,DA1,51.45370967469876,0.18261085542168673,3,DA1,Pub,Gym,Arts & Crafts Store,Supermarket,Toy / Game Store,Clothing Store,Shopping Plaza,Coffee Shop,Pet Store,Mediterranean Restaurant,865544.0,premium
+22,DA14,51.42592391643843,0.11027610136986302,3,DA14,Bakery,Fast Food Restaurant,Grocery Store,Pharmacy,Coffee Shop,Hotel,Beer Bar,Pub,Farm,Ethiopian Restaurant,2643266.0,expensive
+23,DA15,51.439841774580465,0.09893620383693058,2,DA15,Pub,Athletics & Sports,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,402062.0,cheap
+24,DA16,51.464476551816944,0.10900845760430675,3,DA16,Coffee Shop,Supermarket,Pub,Grocery Store,Fast Food Restaurant,Pizza Place,Fish & Chips Shop,Pharmacy,Chinese Restaurant,Fish Market,397298.0,cheap
+25,DA17,51.488120880903466,0.14845596509240222,6,DA17,Eastern European Restaurant,Breakfast Spot,Trail,Indian Restaurant,Yoga Studio,Fish & Chips Shop,Exhibit,Fabric Shop,Falafel Restaurant,Farm,284425.0,cheap
+26,DA18,51.49147283168313,0.14594440594059413,6,DA18,Eastern European Restaurant,Trail,Train Station,Indian Restaurant,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,237000.0,cheap
+27,DA5,51.44253818283596,0.1412964235074622,0,DA5,Italian Restaurant,Construction & Landscaping,Toy / Game Store,Tennis Court,Park,Food Court,Farmers Market,Ethiopian Restaurant,Food Truck,Event Space,429961.0,cheap
+28,DA6,51.456116101694896,0.13891862227602922,3,DA6,Coffee Shop,Clothing Store,Pub,Fast Food Restaurant,Department Store,Mexican Restaurant,Supermarket,Bowling Alley,Bar,Bakery,412202.0,cheap
+29,DA7,51.46502823159947,0.14337947595681913,2,DA7,Pub,Post Office,Grocery Store,Thrift / Vintage Store,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,434337.0,cheap
+30,DA8,51.4761007251342,0.17983808556149863,0,DA8,Furniture / Home Store,Grocery Store,Café,Fast Food Restaurant,Athletics & Sports,Yoga Studio,Film Studio,Exhibit,Fabric Shop,Falafel Restaurant,311363.0,cheap
+31,E1,51.516257451884115,-0.06042257301480528,0,E1,Hotel,Indian Restaurant,Grocery Store,Coffee Shop,Pub,Gym / Fitness Center,Sandwich Place,Bakery,Platform,Steakhouse,714580.0,premium
+32,E10,51.568701942776364,-0.012773135084427805,0,E10,Park,Cricket Ground,Hotel,Fried Chicken Joint,Convenience Store,Farm,Coffee Shop,Asian Restaurant,Event Space,Exhibit,434559.0,cheap
+33,E11,51.5673751983466,0.011668469696969675,3,E11,Café,Pub,Fast Food Restaurant,Grocery Store,Coffee Shop,Bakery,Pharmacy,Music Venue,Burger Joint,Metro Station,622410.0,premium
+34,E12,51.55103267048721,0.05080587535816595,6,E12,Train Station,Gym / Fitness Center,Indian Restaurant,Restaurant,Filipino Restaurant,Entertainment Service,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,385272.0,cheap
+35,E13,51.52821574395623,0.025794046153846083,2,E13,Pub,Bus Station,Café,Gym,Yoga Studio,Fish & Chips Shop,Exhibit,Fabric Shop,Falafel Restaurant,Farm,312171.0,cheap
+36,E14,51.50761656417557,-0.020839835538076296,0,E14,Coffee Shop,Park,Gym / Fitness Center,Italian Restaurant,Plaza,Indian Restaurant,Burger Joint,Café,Street Food Gathering,Hotel,509667.0,mid range
+37,E15,51.53868214949976,0.0005987825464949798,3,E15,Pub,Platform,Hotel,Coffee Shop,Sandwich Place,Bar,Pharmacy,General Entertainment,Fast Food Restaurant,Café,427562.0,cheap
+38,E16,51.51148990786532,0.020572921348314704,3,E16,Hotel,Café,Chinese Restaurant,Pub,Gym / Fitness Center,Coffee Shop,Gym,Steakhouse,Park,Middle Eastern Restaurant,395842.0,cheap
+39,E17,51.586402047133966,-0.020220267722473716,3,E17,Grocery Store,Coffee Shop,Pub,Sandwich Place,Pizza Place,Pharmacy,Café,Clothing Store,Bookstore,Bakery,816658.0,premium
+40,E18,51.59257446811821,0.02554408087091752,3,E18,Italian Restaurant,Coffee Shop,Grocery Store,Supermarket,Café,Bar,Greek Restaurant,BBQ Joint,Fast Food Restaurant,Pharmacy,503071.0,mid range
+41,E1W,51.5117358855347,-0.05932421886792478,0,E1W,Grocery Store,Fast Food Restaurant,Hotel,Indian Restaurant,Sandwich Place,Gym / Fitness Center,Event Space,Bar,Bakery,Coffee Shop,751524.0,premium
+42,E2,51.5301384204695,-0.06224070664928275,3,E2,Pub,Coffee Shop,Cocktail Bar,Pizza Place,Italian Restaurant,Hotel,Café,Flower Shop,Bar,Gym / Fitness Center,471528.0,mid range
+43,E20,51.54658537016571,-0.01026364640883978,0,E20,Café,Clothing Store,Coffee Shop,Ice Cream Shop,Italian Restaurant,Pizza Place,Pub,Toy / Game Store,Burger Joint,Shopping Mall,550000.0,mid range
+44,E3,51.52816495852526,-0.02581211915734016,2,E3,Pub,Grocery Store,Convenience Store,Burger Joint,Locksmith,Park,Bar,Bus Stop,Food & Drink Shop,Food Court,437487.0,cheap
+45,E4,51.623217688569305,-0.003274145790554424,4,E4,Home Service,Yoga Studio,English Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,424142.0,cheap
+46,E5,51.55915319787055,-0.054665669920141845,3,E5,Grocery Store,Pub,Turkish Restaurant,Burger Joint,Café,Breakfast Spot,Garden,Fish & Chips Shop,Gastropub,Beer Bar,630896.0,premium
+47,E6,51.52518776746634,0.055155192387904756,5,E6,Grocery Store,Park,Gym / Fitness Center,Yoga Studio,Ethiopian Restaurant,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,1304758.0,expensive
+48,E7,51.54755605434747,0.026156490118577392,3,E7,Grocery Store,Café,Bus Stop,Pub,Train Station,Bakery,Fish & Chips Shop,Market,Chinese Restaurant,Fast Food Restaurant,445440.0,cheap
+49,E77,51.51394800000002,-0.06912900000000007,3,E77,Hotel,Pub,Coffee Shop,Café,Indian Restaurant,Cocktail Bar,Sushi Restaurant,Pizza Place,Thai Restaurant,Gym / Fitness Center,,
+50,E8,51.54126656628326,-0.06501325747126381,3,E8,Pub,Train Station,Pool,Restaurant,Donut Shop,Park,Seafood Restaurant,Café,Boutique,Gastropub,637776.0,premium
+51,E9,51.541850780535974,-0.0465628361469715,3,E9,Pub,Coffee Shop,Café,Yoga Studio,Fruit & Vegetable Store,Gastropub,Beer Store,Park,Bakery,Deli / Bodega,634872.0,premium
+52,E98,51.50860421052639,-0.06410027631578942,3,E98,Bar,Indian Restaurant,Gym / Fitness Center,Grocery Store,Pub,Sandwich Place,Street Food Gathering,Coffee Shop,Supermarket,Event Space,,
+53,EC1A,51.52025674837672,-0.10444527597402604,3,EC1A,Coffee Shop,Pub,Food Truck,Beer Bar,Wine Bar,Hotel,Vietnamese Restaurant,Falafel Restaurant,Café,French Restaurant,932000.0,expensive
+54,EC1M,51.52139791461107,-0.10359246110056934,3,EC1M,Pub,Coffee Shop,Food Truck,Café,Gym / Fitness Center,Falafel Restaurant,French Restaurant,Vietnamese Restaurant,Bar,Italian Restaurant,1268000.0,expensive
+55,EC1N,51.52002961208578,-0.10913799025341109,3,EC1N,Coffee Shop,Pub,Sandwich Place,Hotel,Food Truck,Restaurant,Gym / Fitness Center,Falafel Restaurant,Sushi Restaurant,Bar,1431250.0,expensive
+56,EC1P,51.52454786499999,-0.11205206750000052,3,EC1P,Pub,Garden,Cocktail Bar,Coffee Shop,Bar,Sandwich Place,Vietnamese Restaurant,Middle Eastern Restaurant,Food Truck,History Museum,,
+57,EC1R,51.5244940155441,-0.108974031088083,3,EC1R,Pub,Café,Bar,Food Truck,Vietnamese Restaurant,Coffee Shop,Pizza Place,Hotel,French Restaurant,Gym / Fitness Center,1716300.0,expensive
+58,EC1V,51.52650268203643,-0.09931023631123924,3,EC1V,Coffee Shop,Pub,Food Truck,Café,Vietnamese Restaurant,Sandwich Place,Breakfast Spot,Italian Restaurant,Bagel Shop,Sushi Restaurant,1393274.0,expensive
+59,EC1Y,51.52306824379236,-0.09339383069977421,3,EC1Y,Coffee Shop,Gym / Fitness Center,Italian Restaurant,Food Truck,Pub,Sushi Restaurant,Bar,Café,Deli / Bodega,Soup Place,17638315.0,expensive
+60,EC2A,51.52313608122943,-0.08798717233808996,0,EC2A,Food Truck,Coffee Shop,Hotel,Bar,Gym / Fitness Center,Beer Bar,Café,Cocktail Bar,Turkish Restaurant,Asian Restaurant,1705690.0,expensive
+61,EC2M,51.51841394348933,-0.08682712407862414,0,EC2M,Hotel,Gym / Fitness Center,Food Truck,Sushi Restaurant,Boxing Gym,Cocktail Bar,Concert Hall,Steakhouse,Botanical Garden,Breakfast Spot,337497.0,cheap
+62,EC2N,51.515979053231945,-0.08748549429657793,0,EC2N,Hotel,French Restaurant,Coffee Shop,Restaurant,Indian Restaurant,Cocktail Bar,Boutique,Bookstore,Steakhouse,Gym / Fitness Center,,
+63,EC2P,51.52406620113323,-0.1104907223796036,3,EC2P,Pub,Coffee Shop,Bar,Sandwich Place,Food Truck,Middle Eastern Restaurant,Beer Bar,Cocktail Bar,Garden,Park,,
+64,EC2R,51.516310424929124,-0.09186747592067984,0,EC2R,Coffee Shop,Gym / Fitness Center,Hotel,Café,Seafood Restaurant,Art Gallery,Clothing Store,Cocktail Bar,Vietnamese Restaurant,Italian Restaurant,,
+65,EC2V,51.51583492070488,-0.09492594052863432,0,EC2V,Coffee Shop,Italian Restaurant,Gym / Fitness Center,Steakhouse,Plaza,Clothing Store,Wine Bar,Art Gallery,Sushi Restaurant,Scenic Lookout,,
+66,EC2Y,51.51998748122872,-0.09634365529010237,0,EC2Y,Coffee Shop,Food Truck,Italian Restaurant,Café,Hotel,French Restaurant,Art Gallery,Gym / Fitness Center,Concert Hall,Sandwich Place,853000.0,premium
+67,EC3A,51.51495473372777,-0.08200906903353058,0,EC3A,Cocktail Bar,Hotel,Coffee Shop,Restaurant,Wine Bar,Indian Restaurant,Pizza Place,Gym / Fitness Center,Italian Restaurant,Turkish Restaurant,,
+68,EC3B,51.51403,-0.081823,0,EC3B,Hotel,Coffee Shop,Restaurant,Gym / Fitness Center,Cocktail Bar,Italian Restaurant,Café,French Restaurant,Beer Bar,Indian Restaurant,,
+69,EC3M,51.5122385520835,-0.0837337895833334,0,EC3M,Hotel,Sandwich Place,Coffee Shop,Cocktail Bar,Restaurant,Gym / Fitness Center,French Restaurant,Pub,Garden,Turkish Restaurant,258325.0,cheap
+70,EC3N,51.51265830077119,-0.07982227249357342,0,EC3N,Hotel,Gym / Fitness Center,Coffee Shop,Cocktail Bar,Restaurant,Italian Restaurant,Wine Bar,Indian Restaurant,English Restaurant,Salad Place,,
+71,EC3P,51.52225891452986,-0.10647520512820513,3,EC3P,Pub,Coffee Shop,Bar,Hotel,Cocktail Bar,Pizza Place,Vietnamese Restaurant,Café,French Restaurant,Italian Restaurant,,
+72,EC3R,51.51122086868685,-0.0846506666666667,0,EC3R,Hotel,Coffee Shop,Restaurant,Sandwich Place,Pub,Gym / Fitness Center,French Restaurant,Garden,Italian Restaurant,Asian Restaurant,,
+73,EC3V,51.513337455331424,-0.08690858789625341,0,EC3V,Coffee Shop,Sandwich Place,Gym / Fitness Center,Wine Bar,Café,Steakhouse,Vietnamese Restaurant,Restaurant,Hotel,Cocktail Bar,324891.0,cheap
+74,EC4A,51.515894818359314,-0.1086608652343751,3,EC4A,Coffee Shop,Pub,Sandwich Place,French Restaurant,Wine Bar,Italian Restaurant,Gym / Fitness Center,Burrito Place,Japanese Restaurant,Falafel Restaurant,545000.0,mid range
+75,EC4M,51.51487681578947,-0.10057224561403509,0,EC4M,Italian Restaurant,Coffee Shop,Gym / Fitness Center,Pub,Falafel Restaurant,Sandwich Place,Japanese Restaurant,Wine Bar,Clothing Store,Vietnamese Restaurant,1000.0,cheap
+76,EC4N,51.51335422580643,-0.09310445430107527,0,EC4N,Coffee Shop,Italian Restaurant,Gym / Fitness Center,Sandwich Place,Wine Bar,Restaurant,Clothing Store,French Restaurant,Steakhouse,Hotel,,
+77,EC4P,51.5230712636817,-0.11055545771144287,3,EC4P,Pub,Coffee Shop,Hotel,Sandwich Place,Bar,Food Truck,Park,Middle Eastern Restaurant,Cocktail Bar,Restaurant,,
+78,EC4R,51.51144100738017,-0.0917488634686347,0,EC4R,Coffee Shop,Gym / Fitness Center,Italian Restaurant,Steakhouse,Clothing Store,Vietnamese Restaurant,Roof Deck,English Restaurant,Sushi Restaurant,Cocktail Bar,5125000.0,expensive
+79,EC4V,51.51263137614675,-0.1002458555045871,3,EC4V,Coffee Shop,Italian Restaurant,Pub,Grocery Store,Wine Bar,Gym / Fitness Center,Burrito Place,Sandwich Place,Japanese Restaurant,Falafel Restaurant,,
+80,EC4Y,51.513669231143524,-0.10885791484184926,3,EC4Y,Coffee Shop,Pub,Italian Restaurant,Sandwich Place,Wine Bar,Hotel,History Museum,Japanese Restaurant,Cocktail Bar,Restaurant,,
+81,EC50,51.5245029999999,-0.11208799999999998,3,EC50,Pub,Garden,Coffee Shop,Bar,Sandwich Place,Vietnamese Restaurant,Middle Eastern Restaurant,Cocktail Bar,Food Truck,History Museum,,
+82,EC88,51.52448829577464,-0.07912257746478875,0,EC88,Coffee Shop,Italian Restaurant,Hotel,Gym / Fitness Center,Restaurant,Café,Steakhouse,Pizza Place,Cocktail Bar,Pub,,
+83,EN1,51.653210402835654,-0.07068103130537426,0,EN1,Fish & Chips Shop,Ice Cream Shop,Chinese Restaurant,Automotive Shop,Massage Studio,Italian Restaurant,Food Service,Food Court,Ethiopian Restaurant,Event Space,464361.0,mid range
+84,EN2,51.658451211327375,-0.09166250718512241,2,EN2,Pub,Hotel,Yoga Studio,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,494554.0,mid range
+85,EN3,51.658151323098494,-0.04163108374040491,3,EN3,Grocery Store,Pub,Breakfast Spot,Pharmacy,Fish & Chips Shop,Park,Turkish Restaurant,Yoga Studio,Farmers Market,Ethiopian Restaurant,930507.0,premium
+86,EN4,51.647990174112195,-0.1625696575028632,0,EN4,Chinese Restaurant,Toy / Game Store,Park,Grocery Store,Fast Food Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,655298.0,premium
+87,EN5,51.6478335938222,-0.19035848135198508,3,EN5,Pub,Bus Stop,Movie Theater,Grocery Store,Soccer Stadium,Restaurant,Thai Restaurant,Fish & Chips Shop,Soccer Field,Metro Station,583931.0,mid range
+88,EN6,51.660791888888895,-0.18093133333333333,1,EN6,Park,Yoga Studio,Cricket Ground,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+89,EN7,51.67422266666667,-0.06523066666666667,0,EN7,Soccer Field,Garden,Trail,Park,Food Court,Fast Food Restaurant,Ethiopian Restaurant,Food Stand,Event Space,Exhibit,,
+90,EN8,51.68153743902438,-0.03989468292682927,0,EN8,Seafood Restaurant,Bus Station,Grocery Store,Shoe Store,Tunnel,Soccer Field,Yoga Studio,Farmers Market,Event Space,Exhibit,540000.0,mid range
+91,EN9,51.678828,-0.01167,0,EN9,Boat or Ferry,Harbor / Marina,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Filipino Restaurant,,
+92,HA0,51.55013206700411,-0.30474709481668566,6,HA0,Indian Restaurant,Pub,Park,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,686505.0,premium
+93,HA1,51.58132246705275,-0.3361723173410437,3,HA1,Coffee Shop,Clothing Store,Pizza Place,Sandwich Place,Gym,Pharmacy,Pub,Supermarket,Middle Eastern Restaurant,Bookstore,699663.0,premium
+94,HA2,51.57572191785057,-0.3549217782581854,0,HA2,Park,Metro Station,Grocery Store,Fast Food Restaurant,Yoga Studio,Ethiopian Restaurant,Exhibit,Fabric Shop,Falafel Restaurant,Farm,427295.0,cheap
+95,HA3,51.59154497653296,-0.3229063093869748,5,HA3,Gym / Fitness Center,Park,Gym,Yoga Studio,Ethiopian Restaurant,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,448308.0,cheap
+96,HA4,51.57078954126907,-0.4104419764177432,3,HA4,Indian Restaurant,Thai Restaurant,Bakery,Fast Food Restaurant,Grocery Store,Middle Eastern Restaurant,Fish & Chips Shop,Café,Fried Chicken Joint,Pub,518885.0,mid range
+97,HA5,51.594632446774824,-0.3858862053763466,3,HA5,Coffee Shop,Italian Restaurant,Pub,Supermarket,Grocery Store,Pizza Place,Sandwich Place,Park,Gym / Fitness Center,Restaurant,696945.0,premium
+98,HA6,51.60716454767415,-0.4205104116279089,6,HA6,Park,Indian Restaurant,Pizza Place,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,672460.0,premium
+99,HA7,51.609652674739934,-0.3069861093425578,6,HA7,Park,Business Service,Indian Restaurant,IT Services,Coffee Shop,Yoga Studio,Filipino Restaurant,Event Space,Exhibit,Fabric Shop,656876.0,premium
+100,HA8,51.61159160482108,-0.27524988420146396,0,HA8,Sushi Restaurant,Coffee Shop,Bakery,Supermarket,Pharmacy,Deli / Bodega,Fast Food Restaurant,Middle Eastern Restaurant,Bookstore,Sandwich Place,569643.0,mid range
+101,HA9,51.55866050503458,-0.2899281828298886,0,HA9,Clothing Store,Coffee Shop,Hotel,Sporting Goods Shop,Grocery Store,Bubble Tea Shop,Outlet Store,Sandwich Place,Chocolate Shop,Bookstore,562972.0,mid range
+102,IG1,51.559171138353,0.07274190729411721,0,IG1,Fast Food Restaurant,Clothing Store,Coffee Shop,Turkish Restaurant,Hotel,Sandwich Place,Grocery Store,Supermarket,Bakery,Department Store,386199.0,cheap
+103,IG11,51.534922689877355,0.0918414042553191,0,IG11,Chinese Restaurant,Park,Construction & Landscaping,Home Service,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,304877.0,cheap
+104,IG2,51.573296892473,0.07946329953917036,0,IG2,Sporting Goods Shop,Supermarket,Pet Store,Fast Food Restaurant,Hotel,Mediterranean Restaurant,Food,Flower Shop,Entertainment Service,Ethiopian Restaurant,584392.0,mid range
+105,IG3,51.56248567486325,0.09776341256830579,3,IG3,Irish Pub,Pub,Train Station,Supermarket,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,385195.0,cheap
+106,IG4,51.5768078977777,0.05488429777777781,0,IG4,English Restaurant,Hotel,Bus Stop,Hookah Bar,Sporting Goods Shop,Cycle Studio,Event Space,Fabric Shop,Falafel Restaurant,Farm,508180.0,mid range
+107,IG5,51.58590130909083,0.06472186666666661,1,IG5,Park,Transportation Service,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,555166.0,mid range
+108,IG6,51.59180239374177,0.08698058148631026,6,IG6,Indian Restaurant,Pub,Sandwich Place,Café,Pharmacy,Coffee Shop,Pizza Place,Grocery Store,Athletics & Sports,Farm,413697.0,cheap
+109,IG7,51.610504999999996,0.0886039236641219,0,IG7,Spa,Gym / Fitness Center,Metro Station,Auto Workshop,Greek Restaurant,Filipino Restaurant,Exhibit,Fabric Shop,Falafel Restaurant,Farm,355486.0,cheap
+110,IG8,51.607427439843875,0.03059775937500004,3,IG8,Coffee Shop,Italian Restaurant,Café,Metro Station,Chinese Restaurant,Pizza Place,Restaurant,Grocery Store,Indian Restaurant,Flower Shop,522179.0,mid range
+111,IG9,51.613800896551695,0.027526965517241417,2,IG9,Pub,Italian Restaurant,Gym / Fitness Center,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,459500.0,mid range
+112,KT1,51.40709627681613,-0.29761251626297586,3,KT1,Pub,Café,Video Game Store,Pedestrian Plaza,Auto Garage,Park,Bakery,Bar,Arts & Crafts Store,Gym / Fitness Center,572170.0,mid range
+113,KT17,51.359415874999996,-0.2367985,1,KT17,Park,Yoga Studio,Cricket Ground,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+114,KT19,51.36130466666666,-0.28727600000000003,2,KT19,Pub,Indian Restaurant,Yoga Studio,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,,
+115,KT2,51.41624824107111,-0.29091638888888827,2,KT2,Pub,Indian Restaurant,Chinese Restaurant,Pizza Place,Grocery Store,Tapas Restaurant,Hardware Store,Japanese Restaurant,Gastropub,Event Space,675550.0,premium
+116,KT22,51.327159,-0.327425,2,KT22,Pub,Clothing Store,Auto Garage,Athletics & Sports,Yoga Studio,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,,
+117,KT3,51.399664902745286,-0.2567919992156893,0,KT3,Korean Restaurant,Fast Food Restaurant,Grocery Store,Supermarket,Coffee Shop,Café,Italian Restaurant,Bakery,Bus Stop,Fish & Chips Shop,577017.0,mid range
+118,KT4,51.37941752405505,-0.24056566666666668,3,KT4,Grocery Store,Pharmacy,Pub,BBQ Joint,Pet Store,Train Station,Supermarket,Fast Food Restaurant,Pizza Place,Platform,494262.0,mid range
+119,KT5,51.39278081459572,-0.28788884615384575,5,KT5,Park,Gym / Fitness Center,Bus Stop,Yoga Studio,Film Studio,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,665171.0,premium
+120,KT6,51.390120013435585,-0.2989256554702491,3,KT6,Café,Coffee Shop,Pub,Platform,Park,Grocery Store,Bar,Train Station,Restaurant,Hotel,503219.0,mid range
+121,KT7,51.404764235294145,-0.29284007843137266,2,KT7,Pub,Hotel,Yoga Studio,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,,
+122,KT8,51.40531645000001,-0.33901410000000004,3,KT8,Café,Garden,Pub,Italian Restaurant,Hotel,Historic Site,Thai Restaurant,Palace,Exhibit,Park,6955000.0,expensive
+123,KT9,51.3646810410742,-0.30304399842022195,6,KT9,Platform,Breakfast Spot,Indian Restaurant,Convenience Store,Train Station,Fast Food Restaurant,Fish & Chips Shop,Supermarket,Film Studio,Event Space,437431.0,cheap
+124,N1,51.537578627333325,-0.09824292477749007,3,N1,Pub,Mediterranean Restaurant,Burger Joint,Park,Bakery,Café,Mexican Restaurant,Theater,Breakfast Spot,Comedy Club,775269.0,premium
+125,N10,51.59390226756165,-0.1442789814049588,3,N10,Café,Coffee Shop,Pizza Place,Japanese Restaurant,Grocery Store,Bakery,Deli / Bodega,Pub,Restaurant,Gym / Fitness Center,826841.0,premium
+126,N11,51.614123751540205,-0.1382387227926083,0,N11,Grocery Store,Beer Bar,Bus Stop,Electronics Store,Hardware Store,Toy / Game Store,Furniture / Home Store,Train Station,Metro Station,Fish & Chips Shop,497886.0,mid range
+127,N12,51.61533362619795,-0.17844363019169437,0,N12,Coffee Shop,Fast Food Restaurant,Café,Hotel,Sushi Restaurant,Supermarket,Bookstore,Pharmacy,Italian Restaurant,Chinese Restaurant,729615.0,premium
+128,N13,51.6210307656611,-0.1036852470997685,3,N13,Pub,Bakery,Grocery Store,Cosmetics Shop,Pizza Place,Coffee Shop,Fish & Chips Shop,Café,Breakfast Spot,Mediterranean Restaurant,479401.0,mid range
+129,N14,51.63328606399983,-0.1299623991111112,0,N14,Fast Food Restaurant,Gym / Fitness Center,Coffee Shop,Spanish Restaurant,Dessert Shop,Café,Portuguese Restaurant,Supermarket,Middle Eastern Restaurant,Electronics Store,767620.0,premium
+130,N15,51.58092592158506,-0.08549287774030358,0,N15,Hostel,Park,Grocery Store,Lounge,Garden,Playground,Yoga Studio,Event Space,Exhibit,Fabric Shop,610715.0,premium
+131,N16,51.56429655876095,-0.07680412927350398,3,N16,Café,Pub,Cocktail Bar,Gift Shop,Italian Restaurant,Park,Gastropub,Organic Grocery,Bar,Breakfast Spot,658666.0,premium
+132,N17,51.59747559987659,-0.07110796547472216,3,N17,Pub,Supermarket,Fast Food Restaurant,Park,Gym / Fitness Center,Greek Restaurant,Train Station,Discount Store,Roller Rink,Gas Station,379358.0,cheap
+133,N18,51.61367414863233,-0.0648031153388822,3,N18,Fast Food Restaurant,Coffee Shop,Turkish Restaurant,Pub,Asian Restaurant,Supermarket,Bistro,Grocery Store,Park,Sandwich Place,363683.0,cheap
+134,N19,51.56543433302863,-0.12830659835315605,3,N19,Coffee Shop,Grocery Store,Pub,Bus Stop,Pizza Place,Italian Restaurant,Spa,Asian Restaurant,Electronics Store,Thai Restaurant,696585.0,premium
+135,N1C,51.536255684931504,-0.12564494520547945,0,N1C,Café,Sandwich Place,Coffee Shop,Park,Furniture / Home Store,Plaza,Italian Restaurant,Breakfast Spot,Grocery Store,Burger Joint,952583.0,expensive
+136,N1P,51.53897828249969,-0.10339846750000137,3,N1P,Pub,Burger Joint,Boutique,Mediterranean Restaurant,Hotel,Vietnamese Restaurant,French Restaurant,Mexican Restaurant,Theater,Arts & Crafts Store,,
+137,N2,51.59028957407426,-0.16865076143790805,3,N2,Coffee Shop,Platform,Grocery Store,Pub,Italian Restaurant,Café,French Restaurant,Spa,Movie Theater,Train Station,1523203.0,expensive
+138,N20,51.62956283837234,-0.1747799593023255,3,N20,Coffee Shop,Café,Pub,Italian Restaurant,Park,Indian Restaurant,Turkish Restaurant,Sandwich Place,Metro Station,Sushi Restaurant,658761.0,premium
+139,N21,51.635552314606784,-0.09961826516853976,3,N21,Italian Restaurant,Coffee Shop,Bus Stop,Pub,Supermarket,Bistro,Middle Eastern Restaurant,Grocery Store,Bar,Design Studio,588364.0,mid range
+140,N22,51.5999885119276,-0.11404978723404251,3,N22,Bus Stop,Café,Park,Restaurant,Movie Theater,Fast Food Restaurant,Supermarket,Food Service,Train Station,Light Rail Station,553125.0,mid range
+141,N3,51.600412628396,-0.19410202541630014,3,N3,Turkish Restaurant,Supermarket,Coffee Shop,Pub,Japanese Restaurant,Café,Pizza Place,Korean Restaurant,Chinese Restaurant,Park,645797.0,premium
+142,N4,51.57099529043135,-0.10412974056603728,3,N4,Hotel,Athletics & Sports,Pub,Park,Café,Lake,Outdoor Gym,Event Space,Exhibit,Fabric Shop,540411.0,mid range
+143,N5,51.55377758974335,-0.09858437820512866,3,N5,Café,Bar,Thai Restaurant,Burger Joint,Tapas Restaurant,Cheese Shop,Middle Eastern Restaurant,Restaurant,Bookstore,Fish & Chips Shop,743195.0,premium
+144,N6,51.57149647836278,-0.14083371345029302,2,N6,Pub,Japanese Restaurant,Pizza Place,Trail,Park,Seafood Restaurant,Indian Restaurant,French Restaurant,Tea Room,Historic Site,1305612.0,expensive
+145,N7,51.553767181412866,-0.11800649649904552,3,N7,Supermarket,Pub,Pharmacy,Café,Yoga Studio,Mobile Phone Shop,Restaurant,Clothing Store,Tapas Restaurant,Dessert Shop,729249.0,premium
+146,N8,51.582348992389626,-0.12012539117199435,3,N8,Café,Pub,Grocery Store,Bakery,French Restaurant,Coffee Shop,Health & Beauty Service,Bar,Thai Restaurant,Park,602050.0,premium
+147,N81,51.57983357142856,-0.09711057142857146,0,N81,Turkish Restaurant,Café,Bakery,Pub,Clothing Store,Coffee Shop,Grocery Store,Mediterranean Restaurant,Bagel Shop,Bar,,
+148,N9,51.627849103475604,-0.05878439415481861,0,N9,Gym / Fitness Center,Coffee Shop,Grocery Store,Fruit & Vegetable Store,Sandwich Place,Middle Eastern Restaurant,Seafood Restaurant,Clothing Store,Train Station,Shopping Mall,347397.0,cheap
+149,NW1,51.53226517179911,-0.14279881582733822,3,NW1,Pub,Pizza Place,Sandwich Place,Cocktail Bar,Park,Japanese Restaurant,Coffee Shop,Fried Chicken Joint,Middle Eastern Restaurant,Mexican Restaurant,1249420.0,expensive
+150,NW10,51.53924094018739,-0.24886582305295638,3,NW10,Fast Food Restaurant,Pub,Warehouse Store,Bus Stop,Chinese Restaurant,Grocery Store,Liquor Store,Coffee Shop,Pharmacy,Sandwich Place,804502.0,premium
+151,NW11,51.578705799057445,-0.19840413730111867,0,NW11,Bakery,Restaurant,Stationery Store,Martial Arts Dojo,Grocery Store,Coffee Shop,Turkish Restaurant,Tennis Court,Thai Restaurant,Café,1359326.0,expensive
+152,NW1W,51.530784290242735,-0.13542622685571512,0,NW1W,Beer Bar,Italian Restaurant,Cocktail Bar,Museum,Gourmet Shop,Mexican Restaurant,Sushi Restaurant,Café,Chocolate Shop,Malay Restaurant,,
+153,NW2,51.55931820428019,-0.21847536011303725,0,NW2,Fast Food Restaurant,Grocery Store,Hotel,Pub,Café,Breakfast Spot,Supermarket,Gym / Fitness Center,Bagel Shop,Clothing Store,755321.0,premium
+154,NW26,51.53268191623042,-0.20093766492146553,0,NW26,Bar,Coffee Shop,Deli / Bodega,Restaurant,Hotel,Modern European Restaurant,Bakery,Lebanese Restaurant,Food & Drink Shop,Tapas Restaurant,,
+155,NW3,51.552569622381554,-0.17317994873645912,3,NW3,Italian Restaurant,Café,Pub,Bagel Shop,Kids Store,Hotel,Greek Restaurant,English Restaurant,Dim Sum Restaurant,Coffee Shop,1463324.0,expensive
+156,NW4,51.58740282001404,-0.22379030288784524,0,NW4,Grocery Store,Middle Eastern Restaurant,Bagel Shop,Turkish Restaurant,Pizza Place,Metro Station,Sushi Restaurant,Chinese Restaurant,Coffee Shop,Korean Restaurant,635915.0,premium
+157,NW5,51.55161504591901,-0.1445740677842583,3,NW5,Pub,Grocery Store,Coffee Shop,Bakery,Italian Restaurant,Gym / Fitness Center,Gastropub,French Restaurant,Pharmacy,Pizza Place,824901.0,premium
+158,NW6,51.540298595070716,-0.19562509898278233,3,NW6,Pub,Indian Restaurant,Grocery Store,Café,Fast Food Restaurant,Brazilian Restaurant,Gym / Fitness Center,Pizza Place,Coffee Shop,Supermarket,832416.0,premium
+159,NW7,51.615071217457675,-0.23673232695252674,1,NW7,Park,Construction & Landscaping,Yoga Studio,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,589400.0,mid range
+160,NW8,51.531713192069624,-0.17443286493184518,0,NW8,Cricket Ground,Coffee Shop,Deli / Bodega,Gym / Fitness Center,Fast Food Restaurant,Gastropub,Health & Beauty Service,Lebanese Restaurant,French Restaurant,Bakery,3930021.0,expensive
+161,NW9,51.58654447534901,-0.2539838344186039,3,NW9,Asian Restaurant,Pub,Ice Cream Shop,Bus Stop,Café,Fast Food Restaurant,Clothing Store,Hotel,Hardware Store,Department Store,457704.0,mid range
+162,RM1,51.580230016429354,0.18205913362541043,3,RM1,Coffee Shop,Clothing Store,Café,Grocery Store,Pub,Fast Food Restaurant,Shopping Mall,Sandwich Place,Department Store,Bookstore,467744.0,mid range
+163,RM10,51.54558313597035,0.15656820395550033,0,RM10,Nightclub,Moving Target,Soccer Stadium,Soccer Field,Food Court,Food & Drink Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,454464.0,mid range
+164,RM11,51.56962302564125,0.21800613170163097,0,RM11,Theater,Grocery Store,Train Station,Garden,Café,Turkish Restaurant,Yoga Studio,Fast Food Restaurant,Event Space,Exhibit,539155.0,mid range
+165,RM12,51.55466119337029,0.20871760220994387,5,RM12,English Restaurant,Gym / Fitness Center,Fountain,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,376225.0,cheap
+166,RM13,51.52359961704435,0.1919769018338727,3,RM13,Supermarket,Pub,Bus Stop,Gas Station,Park,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,436304.0,cheap
+167,RM14,51.55662989746689,0.2552132400482514,0,RM14,Platform,Coffee Shop,Supermarket,Burger Joint,Fish & Chips Shop,Metro Station,Sandwich Place,Grocery Store,Bakery,Park,551088.0,mid range
+168,RM2,51.58252016995082,0.19932599507389145,0,RM2,Electronics Store,Bus Stop,Coffee Shop,Platform,Café,English Restaurant,Wine Shop,Food Court,Food Stand,Event Space,504300.0,mid range
+169,RM3,51.602104729357826,0.22426148929663603,2,RM3,Pub,Grocery Store,Supermarket,Athletics & Sports,Yoga Studio,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,592148.0,premium
+170,RM4,51.59578796666668,0.18218044999999983,0,RM4,Electronics Store,Construction & Landscaping,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,595000.0,premium
+171,RM5,51.59813962268044,0.16532342680412362,3,RM5,Bakery,Café,Gym / Fitness Center,Grocery Store,Fast Food Restaurant,Pizza Place,Park,Pub,Flower Shop,Ethiopian Restaurant,339973.0,cheap
+172,RM50,51.570249999999994,0.170637,4,RM50,Racetrack,Home Service,English Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,,
+173,RM6,51.574994411609524,0.13365770712401034,6,RM6,Grocery Store,Supermarket,Pizza Place,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,317613.0,cheap
+174,RM7,51.5733770084034,0.1696127563025211,2,RM7,Racetrack,Pub,Grocery Store,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,345351.0,cheap
+175,RM8,51.55716300745343,0.1308175192546583,0,RM8,Park,Grocery Store,History Museum,Outdoors & Recreation,Bar,Yoga Studio,Fast Food Restaurant,Event Space,Exhibit,Fabric Shop,314550.0,cheap
+176,RM9,51.54379613626358,0.1364815791208787,0,RM9,Women's Store,Turkish Restaurant,Yoga Studio,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,312380.0,cheap
+177,SE1,51.4981925865281,-0.09030701944140147,2,SE1,Pub,Park,Italian Restaurant,Coffee Shop,Lebanese Restaurant,Theater,Garden,Residential Building (Apartment / Condo),Café,Fast Food Restaurant,2276110.0,expensive
+178,SE10,51.484094601702374,0.0007805625531914895,3,SE10,Pub,Grocery Store,Bar,Turkish Restaurant,Pier,Indian Restaurant,Beach,Scenic Lookout,Sports Club,Coffee Shop,795015.0,premium
+179,SE11,51.4895094941727,-0.10906182517482557,3,SE11,Pub,Café,Coffee Shop,Indian Restaurant,Italian Restaurant,Gastropub,Pizza Place,Fish & Chips Shop,Gym,Museum,595890.0,premium
+180,SE12,51.44605324253729,0.025987383084577164,1,SE12,Soccer Field,Park,Forest,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,512115.0,mid range
+181,SE13,51.459290617112714,-0.010488212618841789,3,SE13,Clothing Store,Pub,Coffee Shop,Fast Food Restaurant,Café,Grocery Store,Optical Shop,Pharmacy,Restaurant,Gift Shop,496637.0,mid range
+182,SE14,51.47547683875182,-0.04310547074122237,3,SE14,Pub,Bus Stop,Café,Convenience Store,Lebanese Restaurant,Nightclub,Fast Food Restaurant,Supermarket,Gastropub,Chinese Restaurant,468260.0,mid range
+183,SE15,51.47273549925813,-0.06706113755566544,0,SE15,Grocery Store,Italian Restaurant,Pub,Bar,Indie Movie Theater,Gym / Fitness Center,Bus Stop,Fast Food Restaurant,Coffee Shop,Cocktail Bar,576167.0,mid range
+184,SE16,51.496542216633166,-0.054861978585657126,3,SE16,Café,Grocery Store,Park,Gym Pool,Coffee Shop,Pub,Breakfast Spot,Brazilian Restaurant,Chinese Restaurant,Metro Station,597890.0,premium
+185,SE17,51.4885149366518,-0.094694738461539,3,SE17,Café,Pub,Coffee Shop,Food & Drink Shop,Asian Restaurant,Middle Eastern Restaurant,Grocery Store,Gym,Thai Restaurant,Falafel Restaurant,639134.0,premium
+186,SE18,51.485408395179256,0.07114019417917307,6,SE18,Asian Restaurant,Indian Restaurant,Bus Stop,African Restaurant,Chinese Restaurant,Furniture / Home Store,Child Care Service,Grocery Store,Vietnamese Restaurant,Farm,371229.0,cheap
+187,SE19,51.418234671554266,-0.08521092668621745,3,SE19,Coffee Shop,Café,Italian Restaurant,Gastropub,Pizza Place,Pub,Park,Cocktail Bar,Thai Restaurant,Bar,441057.0,cheap
+188,SE1P,51.4927748962509,-0.08015109124999872,3,SE1P,Bus Stop,Pub,Middle Eastern Restaurant,Coffee Shop,Bike Shop,Spanish Restaurant,Boxing Gym,Cocktail Bar,Bar,Breakfast Spot,,
+189,SE2,51.491107991948454,0.1143941320450886,0,SE2,Platform,Grocery Store,Convenience Store,Coffee Shop,Supermarket,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,327756.0,cheap
+190,SE20,51.413037051046764,-0.058122357329842764,3,SE20,Supermarket,Pizza Place,Hardware Store,Fast Food Restaurant,Coffee Shop,Pub,Furniture / Home Store,Hotel,Filipino Restaurant,Ethiopian Restaurant,407335.0,cheap
+191,SE21,51.438328577154124,-0.08847452905811574,3,SE21,French Restaurant,Train Station,Coffee Shop,Park,Flower Shop,Garden Center,Gift Shop,Bakery,Pub,Wine Shop,1278714.0,expensive
+192,SE22,51.45459907027048,-0.07256470270270253,3,SE22,Café,Gastropub,Convenience Store,Bus Stop,Burger Joint,Fish Market,Cheese Shop,Chinese Restaurant,Grocery Store,Cocktail Bar,702123.0,premium
+193,SE23,51.44015199027221,-0.05008134727626471,3,SE23,Pub,Coffee Shop,Café,Bus Stop,Grocery Store,Gift Shop,Garden Center,Pizza Place,Fish & Chips Shop,Gastropub,536732.0,mid range
+194,SE24,51.45688191811856,-0.10027819337979137,3,SE24,Café,Pub,Pizza Place,Farmers Market,Bookstore,Middle Eastern Restaurant,Gourmet Shop,Gym,Bakery,Coffee Shop,845675.0,premium
+195,SE25,51.39808963320471,-0.07747611969111959,3,SE25,Platform,Supermarket,Café,Coffee Shop,Asian Restaurant,Gas Station,Park,Pub,Bus Stop,Flower Shop,379490.0,cheap
+196,SE26,51.42774257954565,-0.05431730785123982,3,SE26,Pub,Gym / Fitness Center,Pharmacy,Caribbean Restaurant,Coffee Shop,Supermarket,Pizza Place,Gastropub,Pet Store,Sandwich Place,545710.0,mid range
+197,SE27,51.43037640384615,-0.1016320562130178,3,SE27,Grocery Store,Pub,Bakery,Café,Bus Station,Recreation Center,Bistro,Performing Arts Venue,Coffee Shop,Farmers Market,435616.0,cheap
+198,SE28,51.5012024292381,0.10434239346811823,0,SE28,Furniture / Home Store,Breakfast Spot,Warehouse Store,Bakery,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,488096.0,mid range
+199,SE3,51.468608837499914,0.01760785312499997,0,SE3,Business Service,Lake,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,586347.0,mid range
+200,SE4,51.461716019788874,-0.03541503562005272,0,SE4,Convenience Store,Grocery Store,Coffee Shop,Beer Store,Gastropub,Café,Platform,Fish & Chips Shop,Yoga Studio,Brewery,513267.0,mid range
+201,SE5,51.474100694164775,-0.09288589604292369,3,SE5,Café,Bus Stop,Coffee Shop,Pub,Grocery Store,Beer Bar,Vietnamese Restaurant,Bakery,Gastropub,Park,581283.0,mid range
+202,SE6,51.43856426948512,-0.0175563976221927,0,SE6,Grocery Store,Furniture / Home Store,Shopping Plaza,Turkish Restaurant,Discount Store,Yoga Studio,Fast Food Restaurant,Event Space,Exhibit,Fabric Shop,418832.0,cheap
+203,SE7,51.48520744274816,0.031815987786259645,3,SE7,Thai Restaurant,Bus Stop,Department Store,Soccer Stadium,Supermarket,Warehouse Store,Sporting Goods Shop,Chinese Restaurant,Pub,Coffee Shop,414717.0,cheap
+204,SE8,51.48164386468654,-0.028892408140813976,3,SE8,Coffee Shop,Vietnamese Restaurant,Bar,Pub,Grocery Store,Indian Restaurant,Cocktail Bar,Art Gallery,Park,Performing Arts Venue,407562.0,cheap
+205,SE9,51.44609872002431,0.05460718487891289,3,SE9,Pub,Warehouse Store,Hardware Store,Sandwich Place,Historic Site,Golf Course,Bar,Flea Market,Fabric Shop,English Restaurant,419577.0,cheap
+206,SE99,51.478246000000006,-0.08169699999999999,0,SE99,Speakeasy,Grocery Store,Gay Bar,Art Gallery,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,,
+207,SM1,51.36485925501983,-0.193055205488621,3,SM1,Clothing Store,Coffee Shop,Pub,Café,Bar,Department Store,Supermarket,Bakery,Sandwich Place,Warehouse Store,388235.0,cheap
+208,SM2,51.35355767584486,-0.1966114518147685,1,SM2,Park,Clothing Store,Yoga Studio,Entertainment Service,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,464632.0,mid range
+209,SM3,51.37008917082529,-0.2141621708253358,6,SM3,Other Repair Shop,Indian Restaurant,Construction & Landscaping,IT Services,Café,Home Service,Film Studio,Event Space,Exhibit,Fabric Shop,443831.0,cheap
+210,SM4,51.392976459396785,-0.2001881728538289,0,SM4,Train Station,Hotel,Pool,Supermarket,Café,English Restaurant,Food & Drink Shop,Fast Food Restaurant,Ethiopian Restaurant,Event Space,388281.0,cheap
+211,SM5,51.36680983333296,-0.16575819560878158,3,SM5,Pub,Grocery Store,Coffee Shop,Park,Platform,Bakery,Train Station,Historic Site,Hotel,Bar,451106.0,mid range
+212,SM6,51.36097433720903,-0.14638599667774055,3,SM6,Grocery Store,Pharmacy,Supermarket,Pizza Place,Bakery,Train Station,Coffee Shop,Bookstore,Fast Food Restaurant,Sandwich Place,542974.0,mid range
+213,SW10,51.483840724969674,-0.18303775753920334,3,SW10,Italian Restaurant,Grocery Store,Pub,Restaurant,Coffee Shop,Bakery,Sandwich Place,French Restaurant,Nightclub,Pizza Place,2104426.0,expensive
+214,SW11,51.46696245833265,-0.16440376809764218,3,SW11,Café,Pub,Pharmacy,Supermarket,Grocery Store,Seafood Restaurant,Italian Restaurant,Theater,Bar,Bakery,838584.0,premium
+215,SW12,51.44619477754881,-0.14991348506694155,3,SW12,Coffee Shop,Pub,Pizza Place,Bakery,Supermarket,Indian Restaurant,Bar,Café,Sandwich Place,Moroccan Restaurant,812106.0,premium
+216,SW13,51.47445380982554,-0.24892383518225028,3,SW13,Pub,Farmers Market,Grocery Store,Community Center,French Restaurant,Café,Soccer Field,Gastropub,Park,Train Station,1432700.0,expensive
+217,SW14,51.466474118012314,-0.26668033385093254,3,SW14,Coffee Shop,Grocery Store,Pizza Place,Pub,Café,Tapas Restaurant,Middle Eastern Restaurant,Park,Supermarket,Stationery Store,1128832.0,expensive
+218,SW15,51.457973210929026,-0.22583010061286807,0,SW15,Tennis Court,Photography Studio,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,820965.0,premium
+219,SW16,51.423531779963206,-0.12956012946020284,3,SW16,Pub,Supermarket,Café,Video Game Store,Sporting Goods Shop,Skating Rink,Gastropub,Grocery Store,Gym / Fitness Center,Park,562412.0,mid range
+220,SW17,51.43021502959705,-0.16513992317380383,3,SW17,Pub,Indian Restaurant,Coffee Shop,Supermarket,Convenience Store,Cosmetics Shop,Fish & Chips Shop,Bus Stop,South Indian Restaurant,Burger Joint,840139.0,premium
+221,SW18,51.450503364384694,-0.19154871075656274,3,SW18,Pharmacy,Bookstore,Supermarket,Grocery Store,Gym,Pub,Coffee Shop,Asian Restaurant,Clothing Store,Park,995542.0,expensive
+222,SW19,51.42220898336434,-0.20534095226039645,0,SW19,Bar,Clothing Store,Pub,Sushi Restaurant,Burger Joint,Supermarket,Grocery Store,Coffee Shop,Indian Restaurant,Sandwich Place,797326.0,premium
+223,SW1A,51.50197938068193,-0.13382442045454523,0,SW1A,Hotel,Outdoor Sculpture,Lounge,Café,French Restaurant,Monument / Landmark,Palace,Coffee Shop,Hotel Bar,Gift Shop,3400000.0,expensive
+224,SW1E,51.496824458221056,-0.1401589191374662,0,SW1E,Hotel,Coffee Shop,Pub,Italian Restaurant,Theater,Sandwich Place,Sushi Restaurant,Gym / Fitness Center,Restaurant,Sporting Goods Shop,450000.0,cheap
+225,SW1H,51.49770438161557,-0.13444035097492996,0,SW1H,Hotel,Coffee Shop,Sushi Restaurant,Café,Pub,Sandwich Place,Fast Food Restaurant,Indian Restaurant,Juice Bar,Sporting Goods Shop,1760192.0,expensive
+226,SW1P,51.48885324403925,-0.13364603701380395,0,SW1P,Hotel,Park,Plaza,Café,Pub,Pizza Place,Garden,Sandwich Place,Gym Pool,Bakery,1133963.0,expensive
+227,SW1V,51.49069230232538,-0.13943712969588593,3,SW1V,Hotel,Pub,Pizza Place,Bakery,Indian Restaurant,Restaurant,Sandwich Place,Turkish Restaurant,Chinese Restaurant,Park,714445.0,premium
+228,SW1W,51.49322761586115,-0.14767100867410196,3,SW1W,Hotel,Coffee Shop,Italian Restaurant,Pub,Bakery,Restaurant,Café,Sandwich Place,Chinese Restaurant,Gastropub,2769604.0,expensive
+229,SW1X,51.49745947999994,-0.1534169005405407,0,SW1X,Boutique,Hotel,Restaurant,Italian Restaurant,Mediterranean Restaurant,Bakery,Indian Restaurant,Café,Shoe Store,Seafood Restaurant,5231937.0,expensive
+230,SW1Y,51.50531202785919,-0.13518764809384168,0,SW1Y,Park,Hotel,Bookstore,Art Gallery,Greek Restaurant,Monument / Landmark,Palace,Garden,Hotel Bar,Dessert Shop,5333084.0,expensive
+231,SW2,51.450793729895246,-0.12066723904603371,3,SW2,Coffee Shop,Pub,Chinese Restaurant,Café,Caribbean Restaurant,Diner,Park,Fried Chicken Joint,Pizza Place,Vegetarian / Vegan Restaurant,778137.0,premium
+232,SW20,51.41243932400416,-0.22406790742734153,6,SW20,Bus Stop,Indian Restaurant,Pub,Grocery Store,BBQ Joint,Trail,Pharmacy,Coffee Shop,Farmers Market,Ethiopian Restaurant,590852.0,mid range
+233,SW3,51.4883323970831,-0.16504754739203562,0,SW3,Bakery,English Restaurant,Pub,Art Gallery,Ice Cream Shop,Burger Joint,Bookstore,Indian Restaurant,Women's Store,Pizza Place,2498262.0,expensive
+234,SW4,51.461621376170974,-0.1372175535475222,3,SW4,Pub,Café,Burger Joint,Bar,Coffee Shop,Cocktail Bar,Restaurant,Grocery Store,Pharmacy,Turkish Restaurant,905832.0,premium
+235,SW5,51.4897559753424,-0.1896925931506847,0,SW5,Hotel,Garden,Café,Indian Restaurant,Cocktail Bar,Pub,Chinese Restaurant,Tapas Restaurant,Pizza Place,Grocery Store,1292794.0,expensive
+236,SW6,51.47739532116607,-0.20051714252427247,3,SW6,Coffee Shop,Café,Pub,Bakery,Italian Restaurant,Grocery Store,Gastropub,French Restaurant,Park,Climbing Gym,1005265.0,expensive
+237,SW7,51.496482882268374,-0.1765415994257008,0,SW7,Exhibit,Science Museum,Hotel,Café,Bakery,Italian Restaurant,Burger Joint,Gift Shop,Sandwich Place,Garden,2536077.0,expensive
+238,SW8,51.47653549513222,-0.13282098052851213,3,SW8,Portuguese Restaurant,Pub,Gym / Fitness Center,Bakery,Pizza Place,Performing Arts Venue,Coffee Shop,Fish & Chips Shop,Diner,Park,557454.0,mid range
+239,SW9,51.46908622817272,-0.11366355646100067,3,SW9,Park,Pub,Music Venue,Skate Park,Restaurant,Bike Shop,Historic Site,Bakery,Indian Restaurant,Portuguese Restaurant,1281193.0,expensive
+240,SW95,51.480477161290274,-0.13633151612903205,3,SW95,Bar,Coffee Shop,Restaurant,Warehouse Store,Gym / Fitness Center,Trail,Supermarket,Grocery Store,Gym,Bus Stop,,
+241,SW99,51.4724035,-0.11567249999999998,0,SW99,Park,Grocery Store,Bus Stop,Coffee Shop,Vegetarian / Vegan Restaurant,Supermarket,Middle Eastern Restaurant,Bike Shop,Metro Station,Gym,,
+242,TN16,51.312805182673806,0.034213086629001764,6,TN16,Grocery Store,Pool,Supermarket,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,412834.0,cheap
+243,TW1,51.45092026257725,-0.32775526119916815,3,TW1,Pub,Bus Stop,Italian Restaurant,Coffee Shop,Indian Restaurant,Platform,Park,Pizza Place,Steakhouse,Pharmacy,1330342.0,expensive
+244,TW10,51.4514758122698,-0.30283751042944695,3,TW10,Hotel,Pub,Café,Garden,Restaurant,French Restaurant,Garden Center,Boat or Ferry,German Restaurant,Scenic Lookout,1050768.0,expensive
+245,TW11,51.42676007887036,-0.33260111197663217,3,TW11,Pub,Café,Coffee Shop,Grocery Store,Mediterranean Restaurant,Hotel,Pool,Thai Restaurant,Gourmet Shop,Bookstore,798763.0,premium
+246,TW12,51.421066961248656,-0.3694488751345531,6,TW12,Convenience Store,Indian Restaurant,Pharmacy,Café,Yoga Studio,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,788621.0,premium
+247,TW13,51.43914970959347,-0.4034114070872935,0,TW13,Bar,Pizza Place,Shopping Plaza,Fast Food Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,347768.0,cheap
+248,TW14,51.45218708230956,-0.4199454643734641,2,TW14,Pub,Bus Stop,Construction & Landscaping,Rental Service,Yoga Studio,Film Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,698880.0,premium
+249,TW15,51.436488874999995,-0.44138399999999994,0,TW15,Kitchen Supply Store,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+250,TW19,51.457808285714286,-0.46807,6,TW19,Currency Exchange,Bus Stop,Yoga Studio,Fish Market,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+251,TW2,51.44713409009001,-0.3500742162162153,2,TW2,Pub,Park,Scenic Lookout,Fish & Chips Shop,Playground,Fast Food Restaurant,Entertainment Service,Ethiopian Restaurant,Event Space,Exhibit,553061.0,mid range
+252,TW3,51.468608406657594,-0.3633605274151495,0,TW3,Fast Food Restaurant,Clothing Store,Coffee Shop,Indian Restaurant,Hotel,Grocery Store,Pharmacy,Café,Chinese Restaurant,Sandwich Place,531191.0,mid range
+253,TW4,51.466935623641255,-0.3843913152173933,2,TW4,Pizza Place,Pub,Grocery Store,Restaurant,Yoga Studio,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,415927.0,cheap
+254,TW5,51.480230358381306,-0.38148663439306396,6,TW5,Pizza Place,Burger Joint,Middle Eastern Restaurant,Indian Restaurant,Film Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,762166.0,premium
+255,TW6,51.46874462022209,-0.4511359235511715,0,TW6,Airport Lounge,Coffee Shop,Restaurant,Café,Department Store,Train Station,Accessories Store,Fast Food Restaurant,Bookstore,Seafood Restaurant,,
+256,TW7,51.474827855421545,-0.3318712439759057,3,TW7,Café,Fast Food Restaurant,Pub,Grocery Store,Supermarket,Motorcycle Shop,Pizza Place,Bus Stop,Flower Shop,Food Court,461358.0,mid range
+257,TW8,51.48605998126936,-0.3083998668054119,3,TW8,Pub,Café,Italian Restaurant,Coffee Shop,Canal Lock,Fast Food Restaurant,Asian Restaurant,Sandwich Place,Market,Supermarket,565165.0,mid range
+258,TW9,51.46718749660899,-0.2969247113790506,3,TW9,Pub,Italian Restaurant,Garden,Restaurant,Hotel,Auto Garage,Coffee Shop,Sandwich Place,Athletics & Sports,Korean Restaurant,1542712.0,expensive
+259,UB1,51.5123461280955,-0.3764418138343331,6,UB1,Indian Restaurant,Sandwich Place,Ice Cream Shop,Pakistani Restaurant,Coffee Shop,Supermarket,Dessert Shop,Asian Restaurant,Grocery Store,Intersection,390927.0,cheap
+260,UB10,51.547229906581805,-0.4555779097664555,0,UB10,Plaza,Yoga Studio,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,582338.0,mid range
+261,UB11,51.51564509420293,-0.45353525362318875,0,UB11,Soccer Field,Construction & Landscaping,Yoga Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+262,UB18,51.500719000000075,-0.4026840000000004,0,UB18,Bakery,Rental Car Location,Warehouse Store,Supermarket,Film Studio,Entertainment Service,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,,
+263,UB2,51.500557236772515,-0.38052844047619044,6,UB2,Indian Restaurant,Grocery Store,Hotel,Yoga Studio,Filipino Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,1032805.0,expensive
+264,UB3,51.505037369903036,-0.42175595203837146,0,UB3,Platform,Pharmacy,Supermarket,Grocery Store,Bus Stop,Museum,Sandwich Place,Bakery,Gym / Fitness Center,Gym Pool,391470.0,cheap
+265,UB4,51.523135880288926,-0.4085706222910224,6,UB4,Indian Restaurant,Supermarket,Grocery Store,Fast Food Restaurant,Fish & Chips Shop,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,521776.0,mid range
+266,UB5,51.54425184632368,-0.3747768904411827,0,UB5,Grocery Store,Fast Food Restaurant,Scenic Lookout,Café,Hobby Shop,Park,Pizza Place,Gastropub,Breakfast Spot,Flower Shop,331539.0,cheap
+267,UB6,51.54024963758412,-0.3443508508575705,0,UB6,Clothing Store,Pharmacy,Train Station,Shopping Plaza,Pet Store,Chinese Restaurant,Bookstore,Arts & Crafts Store,Fast Food Restaurant,Hotel,489789.0,mid range
+268,UB7,51.506985076923065,-0.4712939875259879,0,UB7,Platform,Bed & Breakfast,Chinese Restaurant,Food Truck,Food Stand,Event Space,Forest,Exhibit,Fabric Shop,Falafel Restaurant,406223.0,cheap
+269,UB8,51.536449457799044,-0.47817123902768677,3,UB8,Supermarket,Pub,Nightclub,Stadium,Sandwich Place,Restaurant,Fish & Chips Shop,Fast Food Restaurant,Ethiopian Restaurant,Event Space,411312.0,cheap
+270,UB9,51.58512673556231,-0.48291402127659466,2,UB9,Campground,Canal Lock,Pub,Harbor / Marina,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,400392.0,cheap
+271,W1,51.519656,-0.15221600000000002,0,W1,Juice Bar,Hotel,Burger Joint,Movie Theater,Bakery,Café,Cocktail Bar,Pizza Place,Greek Restaurant,Gourmet Shop,,
+272,W10,51.52022310788709,-0.2211041713508599,0,W10,Gym / Fitness Center,Park,Bus Stop,Pub,Breakfast Spot,Furniture / Home Store,Thai Restaurant,Theater,Grocery Store,Music Venue,1173843.0,expensive
+273,W11,51.51278179426777,-0.21631782738853708,5,W11,Gym / Fitness Center,Coffee Shop,Park,Latin American Restaurant,Indoor Play Area,Food Service,Food Court,Ethiopian Restaurant,Event Space,Food Stand,2067275.0,expensive
+274,W12,51.50936211246196,-0.23813360364741443,0,W12,Grocery Store,Café,Gastropub,Fast Food Restaurant,Pub,Pizza Place,Park,Gym / Fitness Center,Eastern European Restaurant,Middle Eastern Restaurant,703276.0,premium
+275,W13,51.513090086666516,-0.3214129704761915,0,W13,Grocery Store,Coffee Shop,Indian Restaurant,Supermarket,Hotel,Persian Restaurant,Gym / Fitness Center,Turkish Restaurant,Sandwich Place,Greek Restaurant,685863.0,premium
+276,W14,51.49542385457414,-0.21115568178264277,3,W14,Hotel,Pub,Grocery Store,Indian Restaurant,Pizza Place,Café,Sandwich Place,Bike Rental / Bike Share,Convention Center,Coffee Shop,871433.0,premium
+277,W1A,51.518367485178516,-0.1316181767354625,0,W1A,Coffee Shop,Cocktail Bar,Exhibit,Hotel,Theater,French Restaurant,Tea Room,Bookstore,Steakhouse,Liquor Store,,
+278,W1B,51.514139864220205,-0.14066858715596325,0,W1B,Clothing Store,Art Gallery,Boutique,Coffee Shop,Cocktail Bar,Lingerie Store,Women's Store,Cosmetics Shop,Jewelry Store,Indian Restaurant,2143333.0,expensive
+279,W1C,51.51442835576919,-0.14942461538461554,0,W1C,Hotel,Clothing Store,Coffee Shop,Burger Joint,Juice Bar,French Restaurant,Bakery,Spa,Art Gallery,Cocktail Bar,,
+280,W1D,51.513569688229055,-0.13293488441145287,0,W1D,Theater,Coffee Shop,Cocktail Bar,Hotel,Pizza Place,Indian Restaurant,Ice Cream Shop,Comic Shop,Bakery,Burger Joint,7162000.0,expensive
+281,W1F,51.513482870576325,-0.13650135085945408,0,W1F,Coffee Shop,Clothing Store,Cocktail Bar,Hotel,Theater,Gift Shop,Italian Restaurant,Indian Restaurant,Tea Room,Grocery Store,4800000.0,expensive
+282,W1G,51.51907539732144,-0.14803327901785718,0,W1G,Hotel,Indian Restaurant,French Restaurant,Burger Joint,Modern European Restaurant,Dessert Shop,Cocktail Bar,Coffee Shop,Art Gallery,Cosmetics Shop,18301028.0,expensive
+283,W1H,51.51738254306578,-0.15951040510948902,0,W1H,Hotel,Lebanese Restaurant,Restaurant,Café,Italian Restaurant,Coffee Shop,Middle Eastern Restaurant,Bakery,Ice Cream Shop,Sandwich Place,1281166.0,expensive
+284,W1J,51.508010129787216,-0.14491398510638298,0,W1J,Hotel,Boutique,Art Gallery,Clothing Store,Seafood Restaurant,Italian Restaurant,Tea Room,Dessert Shop,Indian Restaurant,Men's Store,15886400.0,expensive
+285,W1K,51.511211181506745,-0.15085681763698597,0,W1K,Hotel,Clothing Store,French Restaurant,Hotel Bar,Art Gallery,Jewelry Store,Restaurant,Coffee Shop,Café,Juice Bar,2547825.0,expensive
+286,W1M,51.518222411300954,-0.15059684231274637,0,W1M,Hotel,Juice Bar,Burger Joint,Dessert Shop,Coffee Shop,Indian Restaurant,Boutique,Sandwich Place,Salad Place,Bakery,,
+287,W1N,51.51865088742687,-0.14371274269005838,0,W1N,Coffee Shop,Hotel,Cosmetics Shop,Restaurant,Café,Italian Restaurant,Seafood Restaurant,Pizza Place,Burger Joint,Pub,,
+288,W1P,51.519829480164205,-0.13761234883720913,0,W1P,Coffee Shop,Italian Restaurant,Hotel,Cocktail Bar,French Restaurant,Burger Joint,Café,Sushi Restaurant,Restaurant,Turkish Restaurant,,
+289,W1R,51.5128571402213,-0.14106576260762638,0,W1R,Clothing Store,Boutique,Art Gallery,Women's Store,Jewelry Store,Cocktail Bar,French Restaurant,Indian Restaurant,Cosmetics Shop,Coffee Shop,,
+290,W1S,51.51134512702077,-0.14235457852193983,0,W1S,Clothing Store,Boutique,Art Gallery,Cocktail Bar,Hotel,Indian Restaurant,Bookstore,Lounge,French Restaurant,Seafood Restaurant,3965000.0,expensive
+291,W1T,51.52011136266447,-0.13646060279605277,0,W1T,Coffee Shop,Italian Restaurant,Cocktail Bar,Hotel,French Restaurant,Plaza,Restaurant,Bookstore,Sushi Restaurant,Bakery,3662666.0,expensive
+292,W1U,51.51858128628208,-0.1534161278992706,0,W1U,Hotel,Boutique,Juice Bar,Burger Joint,Dessert Shop,Food Court,Salad Place,Restaurant,Coffee Shop,Bakery,1663905.0,expensive
+293,W1V,51.51237775029441,-0.135874276796231,0,W1V,Clothing Store,Theater,Cocktail Bar,Hotel,Indian Restaurant,Bookstore,Coffee Shop,Gift Shop,Plaza,English Restaurant,,
+294,W1W,51.5191314011835,-0.14095119881656828,0,W1W,Coffee Shop,Hotel,French Restaurant,Burger Joint,Cocktail Bar,Restaurant,Art Gallery,Pizza Place,Wine Bar,American Restaurant,1567999.0,expensive
+295,W1X,51.5095331453333,-0.1443693933333333,0,W1X,Boutique,Hotel,Clothing Store,Art Gallery,Seafood Restaurant,Men's Store,Shoe Store,Lounge,Bookstore,Perfume Shop,,
+296,W1Y,51.510087953086455,-0.1498481950617282,0,W1Y,Hotel,Hotel Bar,Boutique,French Restaurant,Art Gallery,Café,Juice Bar,Seafood Restaurant,Restaurant,Clothing Store,,
+297,W2,51.51454723420743,-0.18784513366718295,3,W2,Pub,Coffee Shop,Hotel,Garden,Café,Chinese Restaurant,Pizza Place,Persian Restaurant,Greek Restaurant,Gym / Fitness Center,1966785.0,expensive
+298,W3,51.50833447411434,-0.2701316103542261,2,W3,Pub,Gym / Fitness Center,Hotel,Brewery,Fast Food Restaurant,Grocery Store,Sandwich Place,Train Station,Cocktail Bar,Coffee Shop,920129.0,premium
+299,W4,51.491407400503,-0.26361654760705217,3,W4,Pub,Bookstore,Bakery,Café,Coffee Shop,Park,Italian Restaurant,Platform,Vietnamese Restaurant,Supermarket,1079767.0,expensive
+300,W5,51.51219508778026,-0.30401093366583354,3,W5,Coffee Shop,Pub,Platform,Pizza Place,Burger Joint,Café,Hotel,Italian Restaurant,Clothing Store,Bakery,820239.0,premium
+301,W6,51.49248504519038,-0.23097769916074676,3,W6,Pub,Café,Gym / Fitness Center,Sandwich Place,Hotel,Coffee Shop,Japanese Restaurant,Thai Restaurant,Portuguese Restaurant,Park,1249268.0,expensive
+302,W7,51.509775219631585,-0.3351182993865018,3,W7,Café,Pub,Supermarket,Liquor Store,Train Station,Coffee Shop,Fish & Chips Shop,Pizza Place,Gym,Bus Stop,522940.0,mid range
+303,W8,51.500431097127226,-0.1953882619699045,0,W8,Clothing Store,Café,Pub,Italian Restaurant,Gym / Fitness Center,Garden,Burger Joint,Bakery,Juice Bar,Cupcake Shop,2489694.0,expensive
+304,W9,51.52381315559325,-0.19401532380151315,0,W9,Coffee Shop,Grocery Store,Pizza Place,Gym / Fitness Center,Restaurant,Tennis Court,Mediterranean Restaurant,Gym,Middle Eastern Restaurant,Ethiopian Restaurant,1012774.0,expensive
+305,WC1A,51.51899270677987,-0.12314150508474601,0,WC1A,Pub,Coffee Shop,Hotel,Sandwich Place,Café,Plaza,Exhibit,Bookstore,English Restaurant,Burger Joint,642500.0,premium
+306,WC1B,51.51898185209718,-0.12651489845474617,0,WC1B,Coffee Shop,Hotel,Exhibit,Theater,Bar,Café,Pub,Plaza,Bookstore,Burger Joint,5215000.0,expensive
+307,WC1E,51.520678054794466,-0.13240643150684936,0,WC1E,Coffee Shop,Exhibit,Hotel,Tea Room,Turkish Restaurant,Plaza,Italian Restaurant,Cocktail Bar,French Restaurant,Bar,675000.0,premium
+308,WC1H,51.524845925595216,-0.1263152633928571,3,WC1H,Coffee Shop,Hotel,Pub,Café,Italian Restaurant,Bookstore,Park,Sandwich Place,Pizza Place,Garden,2081000.0,expensive
+309,WC1N,51.52195668189811,-0.12062902108963083,3,WC1N,Pub,Café,Sandwich Place,Coffee Shop,Italian Restaurant,Sushi Restaurant,Chinese Restaurant,Garden,Vietnamese Restaurant,Park,1936041.0,expensive
+310,WC1R,51.51919677272725,-0.11698299393939392,3,WC1R,Pub,Coffee Shop,Sandwich Place,Park,Hotel,History Museum,Plaza,French Restaurant,English Restaurant,Bookstore,622500.0,premium
+311,WC1V,51.51772641396513,-0.1181623167082295,3,WC1V,Pub,Sandwich Place,Coffee Shop,Café,Bookstore,Sushi Restaurant,Hotel,Korean Restaurant,Japanese Restaurant,Restaurant,2600000.0,expensive
+312,WC1X,51.524367792998554,-0.11729238356164373,3,WC1X,Pub,Coffee Shop,Italian Restaurant,Café,Hotel,Grocery Store,French Restaurant,Garden,Salad Place,Sandwich Place,1559500.0,expensive
+313,WC2A,51.51609126146787,-0.11539196559633035,3,WC2A,Pub,Coffee Shop,Sandwich Place,Restaurant,Hotel,Japanese Restaurant,French Restaurant,Bar,Korean Restaurant,Plaza,13298791.0,expensive
+314,WC2B,51.51496214554004,-0.12095384820031314,0,WC2B,Theater,Hotel,Coffee Shop,Cocktail Bar,Museum,Restaurant,Bakery,Dessert Shop,Pizza Place,Sushi Restaurant,1096250.0,expensive
+315,WC2E,51.51247785361558,-0.12381577425044094,0,WC2E,Theater,Ice Cream Shop,Burger Joint,Coffee Shop,Hotel,Cocktail Bar,Restaurant,Opera House,Ramen Restaurant,Dance Studio,447500.0,cheap
+316,WC2H,51.5137149588889,-0.12771555777777754,0,WC2H,Theater,Coffee Shop,Cocktail Bar,Ice Cream Shop,Gym,Bakery,Music Store,Indian Restaurant,Burger Joint,Mediterranean Restaurant,3566712.0,expensive
+317,WC2N,51.5098236222223,-0.1253338888888889,0,WC2N,Theater,Hotel,Ice Cream Shop,Burger Joint,Japanese Restaurant,Opera House,Cocktail Bar,Pub,Boutique,Art Gallery,60000.0,cheap
+318,WC2R,51.51222538861377,-0.11839388118811879,3,WC2R,Theater,Pub,Restaurant,Hotel,Park,Sandwich Place,Coffee Shop,Wine Bar,Dessert Shop,Bar,2300000.0,expensive
+319,WC99,51.513989,-0.12460750000000001,0,WC99,Theater,Coffee Shop,Hotel,Burger Joint,Cocktail Bar,Ice Cream Shop,Liquor Store,Dessert Shop,Bookstore,Café,,
+320,WD2,51.631948,-0.33454550000000005,0,WD2,Park,Grocery Store,Turkish Restaurant,English Restaurant,Yoga Studio,Fast Food Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,,
+321,WD23,51.6319455,-0.334541,0,WD23,Park,Grocery Store,Turkish Restaurant,English Restaurant,Yoga Studio,Fast Food Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,,
+322,WD3,51.6252613125,-0.49275962500000003,0,WD3,Street Art,Canal Lock,Yoga Studio,Fish & Chips Shop,Exhibit,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,,
+323,WD6,51.6428005,-0.25629250000000003,0,WD6,Campground,Toy / Game Store,Steakhouse,Supermarket,Yoga Studio,Event Space,Exhibit,Fabric Shop,Falafel Restaurant,Farm,,
